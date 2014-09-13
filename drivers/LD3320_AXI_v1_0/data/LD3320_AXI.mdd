@@ -1,0 +1,10 @@
+
+
+OPTION psf_version = 2.1;
+
+BEGIN DRIVER LD3320_AXI
+	OPTION supported_peripherals = (LD3320_AXI);
+	OPTION copyfiles = all;
+	OPTION VERSION = 1.0;
+	OPTION NAME = LD3320_AXI;
+END DRIVER

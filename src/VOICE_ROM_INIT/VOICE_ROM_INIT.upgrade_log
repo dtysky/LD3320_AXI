@@ -1,0 +1,16 @@
+Copyright 1986-2014 Xilinx, Inc. All Rights Reserved.
+-----------------------------------------------------------------------------------
+| Tool Version : Vivado v.2014.2 (win64) Build 928826 Thu Jun  5 18:21:07 MDT 2014
+| Date         : Wed Sep 10 03:35:08 2014
+| Host         : Dtysky running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-2
+-----------------------------------------------------------------------------------
+
+Upgrade Log for IP 'VOICE_ROM_INIT'
+
+1. Summary
+----------
+
+SUCCESS in the update of VOICE_ROM_INIT (xilinx.com:ip:blk_mem_gen:8.2 (Rev. 1)) to current project options.
+
